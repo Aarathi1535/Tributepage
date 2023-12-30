@@ -11,6 +11,7 @@ h2{
 body{
     height: fit-content;
     background-image: url('https://w0.peakpx.com/wallpaper/698/322/HD-wallpaper-ms-dhoni-captain-cool-circket-mahendra-singh-dhoni.jpg');
+    background-size:cover;
     width: fit-content;
 }
 img {
